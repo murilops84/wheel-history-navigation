@@ -1,11 +1,13 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Wheel History Navigation
 
-My Chrome Extension
+Chrome Extension to navigate using mouse wheel click;
+
+
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Mouse wheel click and move left will navigate back;
+- Mouse wheel click and move right will navigate forward;
 
 ## Install
 
